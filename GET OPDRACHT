@@ -1,0 +1,49 @@
+<?php
+
+$naam = $_GET["naam"];
+$achternaam = $_GET["achternaam"];
+$leeftijd = $_GET["Age"];
+$adres = $_GET["adres"];
+$email = $_GET["email1"];
+
+echo" $naam  $achternaam  $leeftijd  $adres  $email";
+
+?>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>GET</title>
+</head>
+<body>
+    
+
+
+<form action="get.php" method="GET">
+
+<label for="naam">Naam</label>
+<input type="text" name="naam" >
+
+<label for="achternaam">Achternaam</label>
+<input type="text" name="achternaam" >
+
+<label for="Age">Leeftijd</label>
+<input type="text" name="Age" >
+
+<label for="adres">Adres</label>
+<input type="text" name="adres" >email
+
+<label for="email1">Email</label>
+<input type="email" name="email1" >
+
+<input type="submit" value="Submit">
+
+</form>
+
+
+
+
+</body>
+</html>
