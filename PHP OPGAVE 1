@@ -1,0 +1,51 @@
+<?php
+
+///////////////////////////////////// onderdeel 1
+
+
+
+// $variable1 = 12;
+// $variable2 = 10;
+
+// $sum = $variable1 + $variable2; 
+
+// echo "the sum of $variable1 and $variable2 is $sum.";
+
+
+
+//////////////////////////////////////onderdeel 2
+
+
+//$variable3 = 12; 
+//$variable4 = 10;
+
+//$multiplication = $variable3 * $variable4;
+
+//echo "the resultaat van $variable3 and $variable4 is $multiplication";
+
+
+//////////////////////////////////////onderdeel 3
+
+
+//$variable5 = "ZEE";
+//$variable6 = "Welkom";
+
+//echo "$variable6";
+
+
+// this code contains many errors
+//get rid of all the mistakes!
+//
+
+
+///////////////////////////////////////onderdeel 4
+
+
+//$myName = "Carl" ;
+//$yourName = "Camel";
+
+//echo $myName  . "is with" . $yourName . " in class!";
+
+
+?>
+
