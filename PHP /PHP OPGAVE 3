@@ -1,3 +1,4 @@
+
 <?php
 
 
@@ -62,7 +63,7 @@
 
 
 
-//////////////////////////////    PART 4    ///////////////////////////////
+//////////////////////////////    PART 4A    ///////////////////////////////
 
 
 ///$cijfersPHP = [4.4, 4.6, 5.6, 6.1, 7.6, 7.2];
@@ -70,6 +71,16 @@
 ///$gemiddelde = array_sum($cijfersPHP) / count($cijfersPHP); 
 
 ////echo "Gemiddelde is; ".round($gemiddelde , 1);
+
+
+
+
+
+//////////////////////////////    PART 4B    ///////////////////////////////
+
+
+IK DENK DAT HETCOMBINEREN VAN DE LIJN BETER IS ALS JE HET OOK BEGRIJPT, HET MAAKT DE CODE KORTER, MAAR HET EENVOUDIGER LATEN IS EENVOUDIG TE BEGRIJPEN
+
 
 
 
