@@ -1,0 +1,76 @@
+<?php
+
+
+
+
+//////////////////////////////    PART 1     ///////////////////////////////
+ 
+///$myArray = ['auto','fiets','brommer','bus','vliegtuig','trein'];
+
+///$myArray[] = 'zee';
+
+//echo$myArray[0];
+//echo$myArray[1];
+//echo$myArray[2];
+//echo$myArray[3];
+//echo$myArray[4];
+//echo$myArray[5];
+//echo$myArray[6];
+
+
+
+//////////////////////////////    PART 2     ///////////////////////////////
+
+
+
+
+
+//$myArray = ['auto','fiets','brommer','bus','vliegtuig','trein'];
+
+//$count= count($myArray);
+
+
+//echo "Het array heeft  $count elementen";
+
+
+//$myArray = ['auto','fiets','brommer','bus','vliegtuig','trein'];
+
+//$myArray[] = 'zee';
+
+//echo$myArray[0];
+//echo$myArray[1];
+//echo$myArray[2];
+//echo$myArray[3];
+//echo$myArray[4];
+//echo$myArray[5];
+//echo$myArray[6];
+
+//$count= count($myArray);
+
+//echo "Het array heeft  $count elementen";
+
+//////////////////////////////    PART 3     ///////////////////////////////
+
+
+
+///2    bar
+//5    4
+//8    toyta
+//9    3 arrays
+//12   5
+//19   4
+
+
+
+//////////////////////////////    PART 4    ///////////////////////////////
+
+
+///$cijfersPHP = [4.4, 4.6, 5.6, 6.1, 7.6, 7.2];
+
+///$gemiddelde = array_sum($cijfersPHP) / count($cijfersPHP); 
+
+////echo "Gemiddelde is; ".round($gemiddelde , 1);
+
+
+
+?>
